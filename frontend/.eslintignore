@@ -1,0 +1,8 @@
+# .eslintignore file
+node_modules
+build
+dist
+logs
+yarn.lock
+*.sh
+package-lock.json

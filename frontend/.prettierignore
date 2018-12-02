@@ -1,0 +1,5 @@
+# .prettierignore file.
+
+package.json
+yarn.lock
+package-lock.json
